@@ -1,2 +1,2 @@
 # DealingWithSqlPerformanceForDotNetDevelopers
-This is a repo that contains the code &amp; files associated with the blog post on blog.jbecker.com that I wrote.
+All of the code associated with the blog post at http://blog.jbecker.com/dealing-with-sql-performance-for-net-developers.
